@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "machine-starter",
-      "description": "10 כלים לבעלי עסקים",
+      "description": "11 כלים לבעלי עסקים",
       "source": "./",
       "category": "productivity"
     }
