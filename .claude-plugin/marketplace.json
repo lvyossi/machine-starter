@@ -1,0 +1,15 @@
+{
+  "name": "machine-workshop",
+  "owner": {
+    "name": "יוסי לוי דיגיטל"
+  },
+  "description": "ערכת הפתיחה של סדנת קלוד משין",
+  "plugins": [
+    {
+      "name": "machine-starter",
+      "description": "10 כלים לבעלי עסקים",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
